@@ -1,0 +1,14 @@
+{
+    "name": "nurlan/test",
+    "require-dev": {
+        "lib-libsodium": "^1.0"
+    },
+    "require": {
+        "aura/sqlquery": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
